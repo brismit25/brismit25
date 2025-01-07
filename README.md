@@ -25,10 +25,10 @@ I'm **Brian C. Smith**, an aspiring **Cybersecurity Professional** with a strong
   Analyzing network traffic with Wireshark to detect anomalies, troubleshoot network issues, and improve packet-level analysis skills.
   
 ## 🌱 What I'm Learning
-- **Building and Managing a SOC Home Lab:** Gaining hands-on experience in network monitoring, threat detection, and incident response by configuring and simulating a Security Operations Center environment.
-- **Network Scanning and Vulnerability Assessment:** Developing skills in using tools like NMap and Burp Suite to identify vulnerabilities, misconfigurations, and security gaps in networks and web applications.
-- **Packet Analysis and Traffic Monitoring:** Enhancing expertise in analyzing network traffic with Wireshark to detect anomalies, troubleshoot issues, and understand packet-level data flows.
-- **Web Application Security:** Strengthening knowledge of web security by exploring vulnerability exploitation and mitigation techniques using Burp Suite.
+- Gaining hands-on experience in network monitoring, threat detection, and incident response by configuring and simulating a Security Operations Center environment.
+- Developing skills in using tools like NMap and Burp Suite to identify vulnerabilities, misconfigurations, and security gaps in networks and web applications.
+- Enhancing expertise in analyzing network traffic with Wireshark to detect anomalies, troubleshoot issues, and understand packet-level data flows.
+- Strengthening knowledge of web security by exploring vulnerability exploitation and mitigation techniques using Burp Suite.
 
 ## 📫 Let's Connect!
 - **Email**: brian.c.smith25@gmail.com  
