@@ -8,7 +8,7 @@ I'm **Brian C. Smith**, an aspiring **Cybersecurity Professional** with a strong
 - Eager to solve complex problems and tackle cybersecurity challenges.  
 
 ## 🛠️ Technical Skills
-- **Cybersecurity Tools**: Kali Linux, Wireshark,NMap, Burp Suite 
+- **Cybersecurity Tools**: Kali Linux, Wireshark, NMap, Burp Suite 
 - **Networking**: Configuration and troubleshooting of routers, switches, and firewalls
 - **Programming/Scripting**: Python fundamentals, C++ fundamentals, SQL fundamentals  
 - **Certifications**: CompTIA A+, Network+, Security+, CySA+  
