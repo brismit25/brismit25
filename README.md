@@ -15,11 +15,11 @@ I'm **Brian C. Smith**, an aspiring **Cybersecurity Professional** with a strong
 - **Other Skills**: Incident response, IT troubleshooting, and system maintenance  
 
 ## 📂 Projects and Highlights
-- [**Project 1: Build a Security Operation Center Home Lab (In Progress)**](#)  
+- [**Project 1: Build a Security Operations Center Home Lab (In Progress)**](#)  
   Building and configuring a Security Operations Center (SOC) lab for hands-on practice with network monitoring, threat detection, and incident response.  
 - [**Project 2: Network Scanning with NMap (Future Project)**](#)  
   Learning to perform network scans to identify vulnerabilities and misconfigurations using NMap for better understanding of network security.
-- [**Project 3: Vulnerability Scanning with Burp Suite(Future Project)**](#)  
+- [**Project 3: Vulnerability Scanning with Burp Suite (Future Project)**](#)  
   Exploring the use of Burp Suite to identify and exploit vulnerabilities in web applications, enhancing knowledge of web security.
 - [**Project 4: Analyze Network Packets with Wireshark (Future Project)**](#)    
   Analyzing network traffic with Wireshark to detect anomalies, troubleshoot network issues, and improve packet-level analysis skills.
@@ -32,8 +32,8 @@ I'm **Brian C. Smith**, an aspiring **Cybersecurity Professional** with a strong
 
 ## 📫 Let's Connect!
 - **Email**: brian.c.smith25@gmail.com  
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/brian-smith-853a17223)  
-- **GitHub**: [GitHub Profile](https://github.com/brismit25)  
-- **Portfolio**: [Portfolio Website](https://brismit25.github.io/)  
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/brian-smith-853a17223)  
+- **GitHub**: [My GitHub Profile](https://github.com/brismit25)  
+- **Portfolio**: [My Portfolio Website](https://brismit25.github.io/)  
 
 Feel free to explore my repositories and reach out if you’d like to collaborate or chat about cybersecurity!
