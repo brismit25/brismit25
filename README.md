@@ -33,7 +33,7 @@ I'm **Brian C. Smith**, an aspiring **Cybersecurity Professional** with a strong
 ## 📫 Let's Connect!
 - **Email**: brian.c.smith25@gmail.com  
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/brian-smith-853a17223)  
-- **GitHub**: [github.com/brian-c-smith](https://github.com/brismit25)  
+- **GitHub**: [GitHub Profile](https://github.com/brismit25)  
 - **Portfolio**: [Portfolio Website](https://brismit25.github.io/)  
 
 Feel free to explore my repositories and reach out if you’d like to collaborate or chat about cybersecurity!
