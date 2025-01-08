@@ -14,7 +14,7 @@ I'm **Brian C. Smith**, an aspiring **Cybersecurity Professional** with a strong
 - **Other Skills**: Incident response, IT troubleshooting, and system maintenance  
 
 ## 📂 Projects and Highlights
-- [**Project 1: Home SOC Lab Setup (In Progress)**](https://brismit25.github.io/Home-SOC-Lab-Setup/)  
+- [**Project 1: Home SOC Lab Setup**](https://brismit25.github.io/Home-SOC-Lab-Setup/)  
   Building and configuring a Security Operations Center (SOC) lab for hands-on practice with network monitoring, threat detection, and incident response.  
 - [**Project 2: Network Scanning with NMap (Future Project)**](#)  
   Learning to perform network scans to identify vulnerabilities and misconfigurations using NMap for better understanding of network security.
